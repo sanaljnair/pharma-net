@@ -1,0 +1,17 @@
+
+
+History: https://hyperledger.github.io/fabric-chaincode-java/release-1.4/api/org/hyperledger/fabric/shim/ChaincodeStub.html#getHistoryForKey(java.lang.String)
+
+https://github.com/hyperledger/fabric-samples/blob/release-1.4/chaincode/marbles02/node/marbles_chaincode.js
+
+
+RAFT Concensus Protocol:
+---------------------------
+
+Term
+Leader election
+Log replication
+Is able to handle a probable scenario of network partition
+
+https://www.youtube.com/watch?v=GN_6dEcDsAQ
+

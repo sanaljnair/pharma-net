@@ -1,0 +1,156 @@
+[
+    {
+        "TxId": "6a5a889bd9952252d62ec3ed27e005f56c16ee199aec78fba68ee3e6cfaab4a1",
+        "Timestamp": {
+            "seconds": {
+                "low": 1644093028,
+                "high": 0,
+                "unsigned": false
+            },
+            "nanos": 947270740
+        },
+        "IsDelete": "false",
+        "Value": {
+            "productID": "org.pharma-network.pharmanet.drugAntacid0003",
+            "drugName": "Antacid",
+            "serialNo": "0003",
+            "manufacturer": "org.pharma-network.pharmanet.companyM0001MName",
+            "mfgDate": "20012022",
+            "expDate": "20012024",
+            "owner": "org.pharma-network.pharmanet.companyM0001MName",
+            "shipment": [],
+            "createdAt": "2022-02-05T20:30:28.960Z",
+            "updatedAt": "2022-02-05T20:30:28.960Z"
+        }
+    },
+    {
+        "TxId": "f1746b22d1205903e82ff3bc4d462dd2be43d11a8af37d61bca8ef4102958ec7",
+        "Timestamp": {
+            "seconds": {
+                "low": 1644093177,
+                "high": 0,
+                "unsigned": false
+            },
+            "nanos": 31377391
+        },
+        "IsDelete": "false",
+        "Value": {
+            "productID": "org.pharma-network.pharmanet.drugAntacid0003",
+            "drugName": "Antacid",
+            "serialNo": "0003",
+            "manufacturer": "org.pharma-network.pharmanet.companyM0001MName",
+            "mfgDate": "20012022",
+            "expDate": "20012024",
+            "owner": "org.pharma-network.pharmanet.companyT0001TName",
+            "shipment": [],
+            "createdAt": "2022-02-05T20:30:28.960Z",
+            "updatedAt": "2022-02-05T20:32:57.055Z"
+        }
+    },
+    {
+        "TxId": "55c9000a57a9e4358a491558cf4e6119bfa8e0638ec1849eea8b7ff0ea97695b",
+        "Timestamp": {
+            "seconds": {
+                "low": 1644093252,
+                "high": 0,
+                "unsigned": false
+            },
+            "nanos": 564820029
+        },
+        "IsDelete": "false",
+        "Value": {
+            "productID": "org.pharma-network.pharmanet.drugAntacid0003",
+            "drugName": "Antacid",
+            "serialNo": "0003",
+            "manufacturer": "org.pharma-network.pharmanet.companyM0001MName",
+            "mfgDate": "20012022",
+            "expDate": "20012024",
+            "owner": "org.pharma-network.pharmanet.companyD0001DName",
+            "shipment": [
+                "org.pharma-network.pharmanet.shipmentD0001Antacid"
+            ],
+            "createdAt": "2022-02-05T20:30:28.960Z",
+            "updatedAt": "2022-02-05T20:34:12.599Z"
+        }
+    },
+    {
+        "TxId": "7cab9f571107ed8c8a4d6f67863c2040a7cf4fb25dd355b29b55313f04e9d250",
+        "Timestamp": {
+            "seconds": {
+                "low": 1644093323,
+                "high": 0,
+                "unsigned": false
+            },
+            "nanos": 88962887
+        },
+        "IsDelete": "false",
+        "Value": {
+            "productID": "org.pharma-network.pharmanet.drugAntacid0003",
+            "drugName": "Antacid",
+            "serialNo": "0003",
+            "manufacturer": "org.pharma-network.pharmanet.companyM0001MName",
+            "mfgDate": "20012022",
+            "expDate": "20012024",
+            "owner": "org.pharma-network.pharmanet.companyT0001TName",
+            "shipment": [
+                "org.pharma-network.pharmanet.shipmentD0001Antacid"
+            ],
+            "createdAt": "2022-02-05T20:30:28.960Z",
+            "updatedAt": "2022-02-05T20:35:23.113Z"
+        }
+    },
+    {
+        "TxId": "1f450a0ff9ff814855a55fbedca607ab2051f717b2997c5a4a3aae5b8d921cda",
+        "Timestamp": {
+            "seconds": {
+                "low": 1644093338,
+                "high": 0,
+                "unsigned": false
+            },
+            "nanos": 512173384
+        },
+        "IsDelete": "false",
+        "Value": {
+            "productID": "org.pharma-network.pharmanet.drugAntacid0003",
+            "drugName": "Antacid",
+            "serialNo": "0003",
+            "manufacturer": "org.pharma-network.pharmanet.companyM0001MName",
+            "mfgDate": "20012022",
+            "expDate": "20012024",
+            "owner": "org.pharma-network.pharmanet.companyR0001RName",
+            "shipment": [
+                "org.pharma-network.pharmanet.shipmentD0001Antacid",
+                "org.pharma-network.pharmanet.shipmentR0001Antacid"
+            ],
+            "createdAt": "2022-02-05T20:30:28.960Z",
+            "updatedAt": "2022-02-05T20:35:38.538Z"
+        }
+    },
+    {
+        "TxId": "71e74d12342db7a6fc68a8c79ec11c5181cec98937e234b0712a0beb709b4b46",
+        "Timestamp": {
+            "seconds": {
+                "low": 1644093378,
+                "high": 0,
+                "unsigned": false
+            },
+            "nanos": 348472700
+        },
+        "IsDelete": "false",
+        "Value": {
+            "productID": "org.pharma-network.pharmanet.drugAntacid0003",
+            "drugName": "Antacid",
+            "serialNo": "0003",
+            "manufacturer": "org.pharma-network.pharmanet.companyM0001MName",
+            "mfgDate": "20012022",
+            "expDate": "20012024",
+            "owner": "SAN001",
+            "shipment": [
+                "org.pharma-network.pharmanet.shipmentD0001Antacid",
+                "org.pharma-network.pharmanet.shipmentR0001Antacid"
+            ],
+            "createdAt": "2022-02-05T20:30:28.960Z",
+            "updatedAt": "2022-02-05T20:36:18.367Z"
+        }
+    }
+]
